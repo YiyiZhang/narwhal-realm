@@ -1,6 +1,6 @@
 # Art Assets
 
-All assets are PNG with transparency unless noted. The game canvas is 800×600 px.  
+All assets are PNG with transparency unless noted. The game canvas is 800×600 px.
 Placeholders are already in place so the game runs immediately.
 
 ---
@@ -23,7 +23,7 @@ Draw each scene as a **wide establishing shot** of the realm environment. Keep i
 
 ---
 
-## Narwhals — 128×128 px each
+## Narwhals — 256x256 px each
 
 Draw the narwhal **tusk pointing up** (toward the top of the canvas). The game rotates each sprite to aim toward its target, so the up-facing pose is the neutral orientation. Keep the narwhal body centered in the square with a little transparent padding on all sides so rotation looks smooth.
 
