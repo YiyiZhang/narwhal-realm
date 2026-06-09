@@ -1,8 +1,8 @@
   @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;700;800&display=swap');
   :root{
-    --font-ui:22px;
-    --font-ui-sm:20px;
-    --font-ui-xs:17px;
+    --font-ui:20px;
+    --font-ui-sm:18px;
+    --font-ui-xs:12px;
     --font-popup-title:29px;
     --font-popup-label:23px;
     --font-popup-body:18px;
